@@ -1,2 +1,6 @@
 # hello-world
-To je moj testni repozitorij
+
+Živeli ljudje!
+
+To je prva sprememba, ki sem jo naredil v Gitu.
+Upam, da bo šlo. 
